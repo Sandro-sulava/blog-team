@@ -1,0 +1,7 @@
+feature/
+
+bugfix/
+
+improvement/
+
+core/

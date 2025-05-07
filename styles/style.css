@@ -129,3 +129,17 @@ table {
 }
 
 /* main */
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+@font-face {
+  font-family: "deca";
+  src: url("../assets/fonts/LexendDeca.ttf.ttf");
+}
+
+body {
+  font-family: "deca", "Arial Narrow", Arial, sans-serif;
+}
